@@ -22,3 +22,13 @@ td {
 .header {
   text-align: center;
 }
+
+th {
+  text-align: center;
+}
+
+#portfolio,
+#recommendations {
+  position: relative;
+  top: 40px;
+}
