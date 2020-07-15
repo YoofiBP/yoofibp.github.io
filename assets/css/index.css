@@ -6,10 +6,19 @@ body {
   line-height: 1.6;
   font-size: 18px;
   position: absolute;
-  top: 20%;
+  top: 3%;
   width: 100%;
 }
 
 td {
   width: 25%;
+}
+
+#intro {
+  position: relative;
+  top: 100px;
+}
+
+.header {
+  text-align: center;
 }
